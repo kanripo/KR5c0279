@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:55:24.231724
-#+TITLE: 太清石壁記
-#+PROPERTY: DZID  DZ0881
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，18—763 三卷 洞神部眾術類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
